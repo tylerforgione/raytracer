@@ -1,0 +1,16 @@
+# Rust build output
+/target/
+
+# Cargo lock (optional for libraries)
+# Keep Cargo.lock for binaries, ignore for libraries
+# /Cargo.lock
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Debug / temp
+*.log
